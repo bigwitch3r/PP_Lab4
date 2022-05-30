@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include "mpi.h"
-#include "gerenal_task_1.h"
+#include "general_task_1.h"
+#include "general_task_2.h"
 
 int main(int* argc, char** argv)
 {
-    general_task_one(argc, argv);
+    general_task_two(argc, argv);
 }

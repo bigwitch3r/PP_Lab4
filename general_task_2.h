@@ -1,0 +1,1 @@
+void general_task_two(int* argc, char** argv);
