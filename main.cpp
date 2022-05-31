@@ -8,8 +8,9 @@
 #include "general_task_4.h"
 #include "general_task_4_allreduce.h"
 #include "general_task_4_reduce_scatter.h"
+#include "ind_task.h"
 
 int main(int* argc, char** argv)
 {
-    general_task_four_reduce_scatter(argc, argv);
+    ind_task(argc, argv);
 }
