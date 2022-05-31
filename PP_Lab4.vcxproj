@@ -147,6 +147,7 @@
     <ClCompile Include="general_task_3.cpp" />
     <ClCompile Include="general_task_3_alltoall.cpp" />
     <ClCompile Include="general_task_4.cpp" />
+    <ClCompile Include="general_task_4_allreduce.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +157,7 @@
     <ClInclude Include="general_task_3.h" />
     <ClInclude Include="general_task_3_alltoall.h" />
     <ClInclude Include="general_task_4.h" />
+    <ClInclude Include="general_task_4_allreduce.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

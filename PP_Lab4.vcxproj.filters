@@ -36,6 +36,9 @@
     <ClCompile Include="general_task_4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="general_task_4_allreduce.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="general_task_2.h">
@@ -54,6 +57,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="general_task_4.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="general_task_4_allreduce.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

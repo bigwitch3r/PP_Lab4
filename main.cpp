@@ -6,8 +6,9 @@
 #include "general_task_3.h"
 #include "general_task_3_alltoall.h"
 #include "general_task_4.h"
+#include "general_task_4_allreduce.h"
 
 int main(int* argc, char** argv)
 {
-    general_task_four(argc, argv);
+    general_task_four_allreduce(argc, argv);
 }
