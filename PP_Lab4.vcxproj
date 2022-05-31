@@ -145,6 +145,8 @@
     <ClCompile Include="general_task_2.cpp" />
     <ClCompile Include="general_task_2_v.cpp" />
     <ClCompile Include="general_task_3.cpp" />
+    <ClCompile Include="general_task_3_alltoall.cpp" />
+    <ClCompile Include="general_task_4.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -152,6 +154,8 @@
     <ClInclude Include="general_task_1.h" />
     <ClInclude Include="general_task_2_v.h" />
     <ClInclude Include="general_task_3.h" />
+    <ClInclude Include="general_task_3_alltoall.h" />
+    <ClInclude Include="general_task_4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
